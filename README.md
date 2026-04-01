@@ -28,7 +28,7 @@ An AI-powered web application that detects fraudulent financial messages using a
 
 ## 🌍 Live Demo
 
-(Add your Streamlit link here)
+(https://fraud-detector-37t7ayhdtb3ljb5yguz4b7.streamlit.app/)
 
 ## 📊 Model
 
